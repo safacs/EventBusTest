@@ -88,4 +88,13 @@ public class MainActivity extends AppCompatActivity {
      */
     public void feature1(View view) {
     }
+
+    /**
+     * feature-2
+     * display HelloWorld
+     *
+     * @param view
+     */
+    public void feature2(View view) {
+    }
 }

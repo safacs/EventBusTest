@@ -79,4 +79,13 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         EventBus.getDefault().unregister(this);
     }
+
+    /**
+     * feature-1
+     * display HelloWorld
+     *
+     * @param view
+     */
+    public void feature1(View view) {
+    }
 }
